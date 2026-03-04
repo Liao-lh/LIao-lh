@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm [廖立紘]
+💻 Software Engineer
+| 🚀 Builder
+| 🧠 Problem Solver  
+I build scalable systems, meaningful products, and clean architecture.
 
-<!--
-**Liao-lh/LIao-lh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧭 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently building: **High-impact, production-ready systems**
+- 🌱 Continuously improving in: **System Design & Architecture**
+- 🎯 Focused on: Performance, Scalability, and Developer Experience
+- 🤝 Open to: Collaboration, Open Source, and Challenging Projects
